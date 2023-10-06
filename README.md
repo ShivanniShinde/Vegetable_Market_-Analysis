@@ -1,3 +1,6 @@
+![image](https://github.com/ShivanniShinde/Vegetable_Market_-Analysis/assets/143825606/1d030781-46f4-4f17-a1d4-e73f4ba3bfaf)
+
+
 ##  Noida Vegetable Market Analysis Repository
 
 # Welcome to our Noida Vegetable Market Analysis repository! 🥦🍅🥕
