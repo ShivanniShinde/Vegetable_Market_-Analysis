@@ -32,6 +32,9 @@ Welcome to our Noida Vegetable Market Analysis project! We've embarked on a comp
 <div align="center">
   <ul align="left">
     <img src="https://github.com/ShivanniShinde/Vegetable_Market_-Analysis/assets/143825606/c705cfc8-7e65-405b-bd84-a2ebd9f81b1c" width="150" height="150" align="left">
+  </ul>
+</div>
+
 1. **Data Gathering**: We commenced our journey by meticulously gathering comprehensive and trustworthy data from relevant websites, laying a sturdy foundation for our vegetable market analysis.
 
 2. **Price Analysis**: We undertook a thorough examination of the Noida vegetable market, leaving no stone unturned in scrutinizing price trends and variations. Our goal was to unveil valuable insights into the dynamic market dynamics.
