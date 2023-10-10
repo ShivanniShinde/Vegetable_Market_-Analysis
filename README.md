@@ -29,6 +29,9 @@ Welcome to our Noida Vegetable Market Analysis project! We've embarked on a comp
 
 ---
 ## Objectives 🎯
+<div align="center">
+  <ul align="left">
+    <img src="https://github.com/ShivanniShinde/Vegetable_Market_-Analysis/assets/143825606/c705cfc8-7e65-405b-bd84-a2ebd9f81b1c" width="150" height="150" align="left">
 1. **Data Gathering**: We commenced our journey by meticulously gathering comprehensive and trustworthy data from relevant websites, laying a sturdy foundation for our vegetable market analysis.
 
 2. **Price Analysis**: We undertook a thorough examination of the Noida vegetable market, leaving no stone unturned in scrutinizing price trends and variations. Our goal was to unveil valuable insights into the dynamic market dynamics.
@@ -49,7 +52,7 @@ Our analysis unfurls like the petals of a blooming flower, each aspect meticulou
   
 
   <ul align="left">
-    <img src="https://github.com/ShivanniShinde/Vegetable_Market_-Analysis/assets/143825606/31658ec5-0bc8-4566-bf97-fd294a44e4b1" width="300" height="200" align="right">
+    <img src="https://github.com/ShivanniShinde/Vegetable_Market_-Analysis/assets/143825606/31658ec5-0bc8-4566-bf97-fd294a44e4b1" width="350" height="300" align="right">
     <li><strong>Average Monthly Prices:</strong>  We meticulously analyzed the monthly average prices of each vegetable, providing crucial insights into the market's heartbeat.</li>
     <br>
     <li><strong>Stability in Some Vegetables:</strong>  In this turbulent market, certain vegetables stood as steadfast pillars, offering consumers consistent availability and affordability.</li>
@@ -71,7 +74,7 @@ Our analysis unfurls like the petals of a blooming flower, each aspect meticulou
 ### Income Group Analysis 💼
 
 <div style="display: flex; align-items: right;">
-  <img src="https://github.com/ShivanniShinde/Vegetable_Market_-Analysis/assets/143825606/b017489e-355e-471d-a765-12dc71457793" alt="Image" width="300" height="200" align="left">
+  <img src="https://github.com/ShivanniShinde/Vegetable_Market_-Analysis/assets/143825606/b017489e-355e-471d-a765-12dc71457793" alt="Image" width="350" height="250" align="left">
   <div style="margin-left: 20px;">
     <li><strong>Income Group Dynamics :</strong> We cast our analytical gaze upon different income groups, unraveling the unique price trends within each.</li>
     <br>
@@ -109,10 +112,20 @@ Our analysis unfurls like the petals of a blooming flower, each aspect meticulou
 
 ---
 ## Challenges Faced During the Project 🚧
+<div align="center">
+  <ul align="left">
+    <img src="https://github.com/ShivanniShinde/Vegetable_Market_-Analysis/assets/143825606/346a8a0d-47b1-49e6-a273-b829fe94d063" width="150" height="150" align="left">
+  </ul>
 
 1. **Dynamic Web Pages**: The websites we scraped were dynamic, with elements loading asynchronously. Adapting to these changes required continuous adjustments to our scraping code.
+<br>
 
 2. **Data Validation**: Ensuring the accuracy and integrity of scraped data was challenging. Robust validation mechanisms were implemented to filter out irrelevant or incorrect information.
+<br>
+<br>
+<br>
+</div>
+
 ---
 
 ## Conclusion
