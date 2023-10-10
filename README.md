@@ -6,6 +6,11 @@ Welcome to our Noida Vegetable Market Analysis project! We've embarked on a comp
 
 ---
 # Table of Contents
+<div align="right">
+  <ul align="left">
+    <img src="https://github.com/ShivanniShinde/Vegetable_Market_-Analysis/assets/143825606/ff8c88f1-203c-4c8b-b7d9-a451889212b2" width="250" height="200" align="right">
+     
+
    - [Introduction](#introduction)
    - [Objectives 🎯](#objectives-)
    - [Analysis 📊](#analysis-)
@@ -14,7 +19,8 @@ Welcome to our Noida Vegetable Market Analysis project! We've embarked on a comp
      - [Quick Commerce Analysis 🚀](#quick-commerce-analysis-)
   - [Challenges Faced During the Project 🚧](#challenges-faced-during-the-project-)
   - [Conclusion ](#conclusion)
-
+   </ul>
+</div>
 
 ---
 
@@ -52,8 +58,6 @@ These four objectives formed the core of our comprehensive analysis, offering a 
 ### Price Trends 🚀
 Our analysis unfurls like the petals of a blooming flower, each aspect meticulously examined:
 <div align="center">
-  
-
   <ul align="left">
     <img src="https://github.com/ShivanniShinde/Vegetable_Market_-Analysis/assets/143825606/31658ec5-0bc8-4566-bf97-fd294a44e4b1" width="350" height="300" align="right">
     <li><strong>Average Monthly Prices:</strong>  We meticulously analyzed the monthly average prices of each vegetable, providing crucial insights into the market's heartbeat.</li>
