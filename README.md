@@ -1,4 +1,4 @@
-![image](https://github.com/ShivanniShinde/Vegetable_Market_-Analysis/assets/143825606/1d030781-46f4-4f17-a1d4-e73f4ba3bfaf)
+![image](https://github.com/ShivanniShinde/Vegetable_Market_-Analysis/assets/143825606/c7cb08ae-5778-477c-908b-4f44bbc2a7e9)
 
 # Noida Vegetable Market Analysis 🌽📊
 
