@@ -73,10 +73,7 @@ Our analysis unfurls like the petals of a blooming flower, each aspect meticulou
     <br>
     <li><strong>Proximity and Competition:</strong>  The secret behind Noida's affordability lies in its proximity to agricultural regions and the thriving market competition.</li>
     <br>
-    <li><strong>Opportunities for Savings:</strong> The price differential we unearthed shines a spotlight on the untapped potential for significant savings in Noida..</li>
-    <br>
-    <li><strong>Correlations:</strong> The intricate web of correlations between price movements and vegetable seasons serves as our North Star, guiding us through the market's intricate currents.</li>
-      </ul>
+
 </div>
 
 
