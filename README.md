@@ -36,19 +36,22 @@ Welcome to our Noida Vegetable Market Analysis project! We've embarked on a comp
 ## Objectives 🎯
 <div align="center">
   <ul align="left">
-    <img src="https://github.com/ShivanniShinde/Vegetable_Market_-Analysis/assets/143825606/c705cfc8-7e65-405b-bd84-a2ebd9f81b1c" width="150" height="150" align="left">
+    <img src="https://github.com/ShivanniShinde/Vegetable_Market_-Analysis/assets/143825606/c705cfc8-7e65-405b-bd84-a2ebd9f81b1c" width="160" height="160" align="left">
   </ul>
 </div>
 
-1. **Data Gathering**: We commenced our journey by meticulously gathering comprehensive and trustworthy data from relevant websites, laying a sturdy foundation for our vegetable market analysis.
+1. **Data Gathering**: Commenced by meticulously gathering comprehensive and trustworthy data from relevant websites to establish a sturdy foundation for the analysis.
 
-2. **Price Analysis**: We undertook a thorough examination of the Noida vegetable market, leaving no stone unturned in scrutinizing price trends and variations. Our goal was to unveil valuable insights into the dynamic market dynamics.
+2. **Price Analysis**: Undertook a thorough examination of the Noida vegetable market, leaving no stone unturned in scrutinizing price trends and variations to unveil valuable insights into the dynamic market dynamics.
 
-3. **Seasonal Insights**: Through our detailed price analysis, we sought to identify which vegetables shine in each season, providing invaluable guidance to both consumers and vendors.
+3. **Seasonal Insights**:Through detailed price analysis, identified which vegetables shine in each season, providing invaluable guidance to both consumers and vendors.
 
-4. **Quick Commerce Analysis (Delhi)**: In addition to the above objectives, we explored the thriving Quick Commerce Vegetable Business in Delhi. This analysis delves into the competitive landscape, quality standards, customer-centric approaches, challenges, and the market's potential. 
 
-These four objectives formed the core of our comprehensive analysis, offering a holistic view of the Noida vegetable market and the bustling Quick Commerce sector in Delhi.
+5. **Quick Commerce Analysis (Delhi)**: Explored the thriving Quick Commerce Vegetable Business in Delhi, delving into the competitive landscape, quality standards, customer-centric approaches, challenges, and the market's potential.
+
+
+
+These four objectives formed the core of  comprehensive analysis, offering a holistic view of the Noida vegetable market and the bustling Quick Commerce sector in Delhi.
 
 ---
 
