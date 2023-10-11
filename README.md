@@ -69,9 +69,7 @@ Our analysis unfurls like the petals of a blooming flower, each aspect meticulou
     <br>
     <li><strong>Cost-Effective Noida:</strong>  Noida consistently unfurled as a banner of affordability, offering lower prices for most vegetables throughout the year.</li>
     <br>
-    <li><strong>Proximity and Competition:</strong>  The secret behind Noida's affordability lies in its proximity to agricultural regions and the thriving market competition.</li>
-    <br>
-
+ 
 </div>
 
 
