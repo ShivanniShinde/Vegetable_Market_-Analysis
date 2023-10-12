@@ -15,6 +15,7 @@ Welcome to our Noida Vegetable Market Analysis project! We've embarked on a comp
    - [Analysis 📊](#analysis-)
      - [Price Trends 🚀](#price-trends-)
      - [Income Group Analysis 💼](#income-group-analysis-)
+     - [Dashboard 📊](#dashboard-)
      - [Quick Commerce Analysis 🚀](#quick-commerce-analysis-)
   - [Challenges Faced During the Project 🚧](#challenges-faced-during-the-project-)
   - [Conclusion ](#conclusion)
@@ -85,10 +86,14 @@ Our analysis unfurls like the petals of a blooming flower, each aspect meticulou
     <li><strong>Affordability Impact:</strong> Lower-income areas saw a substantial 13% price drop, middle-income areas experienced a 4% decrease, and higher-income areas had a slight 2% drop. These trends suggest improved affordability and potential market stability, benefiting consumers.</li>
   </div>
 </div>
+<br>
+<br>
 
-<br>
-<br>
-<br>
+### Dashboard 📊
+<p align="center">
+  <img src="https://github.com/ShivanniShinde/Vegetable_Market_-Analysis/assets/143825606/8deeef84-b030-4f81-ab38-b0fd09191a5d" width="750" height="650">
+</p>
+
 <div align="center">
   <h3 align="left">Quick Commerce Analysis 🚀</h3>
 
