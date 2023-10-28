@@ -24,7 +24,7 @@ Welcome to our Noida Vegetable Market Analysis project! We've embarked on a comp
 
 ---
 
-## Introduction 
+# Introduction 
 
 - **Comprehensive Analysis:**  In this project, an in-depth analysis was conducted on the Noida vegetable market. The exploration included pricing dynamics, seasonal trends, impacts on different income groups, and the integration of technology, all facilitated through the use of Python's Selenium library.
 
@@ -32,7 +32,7 @@ Welcome to our Noida Vegetable Market Analysis project! We've embarked on a comp
 
 - **Quick Commerce:** While navigating this diverse landscape, we also shed light on the continuously expanding quick commerce vegetable business in Delhi.
 ---
-## Objectives 🎯
+# Objectives 🎯
 <div align="center">
   <ul align="left">
     <img src="https://github.com/ShivanniShinde/Vegetable_Market_-Analysis/assets/143825606/c705cfc8-7e65-405b-bd84-a2ebd9f81b1c" width="160" height="160" align="left">
@@ -54,7 +54,7 @@ These four objectives formed the core of  comprehensive analysis, offering a hol
 
 ---
 
-## Analysis 📊
+# Analysis 📊
 
 ### Price Trends 🚀
 Our analysis unfurls like the petals of a blooming flower, each aspect meticulously examined:
@@ -89,13 +89,16 @@ Our analysis unfurls like the petals of a blooming flower, each aspect meticulou
 <br>
 <br>
 
-### Dashboard 📊
+---
+
+# Dashboard 📊
 <p align="center">
   <img src="https://github.com/ShivanniShinde/Vegetable_Market_-Analysis/assets/143825606/8deeef84-b030-4f81-ab38-b0fd09191a5d" width="750" height="650">
 </p>
 
-<div align="center">
-  <h3 align="left">Quick Commerce Analysis 🚀</h3>
+---
+
+# Quick Commerce Analysis 🚀
 
   <ul align="left">
     <li><strong>Booming Business:</strong> Delhi's Quick Commerce Vegetable Business is booming, driven by the demand for quick and fresh vegetable deliveries.</li>
@@ -116,9 +119,9 @@ Our analysis unfurls like the petals of a blooming flower, each aspect meticulou
 </div>
 
 
-
 ---
-## Challenges Faced During the Project 🚧
+
+# Challenges Faced During the Project 🚧
 <div align="center">
   <ul align="left">
     <img src="https://github.com/ShivanniShinde/Vegetable_Market_-Analysis/assets/143825606/346a8a0d-47b1-49e6-a273-b829fe94d063" width="150" height="150" align="left">
@@ -135,7 +138,7 @@ Our analysis unfurls like the petals of a blooming flower, each aspect meticulou
 
 ---
 
-## Conclusion
+# Conclusion
 
 The vegetable market analysis project has revealed the intricate tapestry of pricing dynamics, consumer preferences, and market trends. It underscores the significance of developing strategies that align with affordability and customer inclinations. Furthermore, it highlights an exciting opportunity - a space where fast vegetable delivery businesses can thrive in Delhi, especially within the realm of online commerce. All of this is set against the backdrop of the city's fast-paced lifestyle and evolving shopping habits.
 
