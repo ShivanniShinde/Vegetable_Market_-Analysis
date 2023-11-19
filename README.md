@@ -105,7 +105,7 @@ Our analysis unfurls like the petals of a blooming flower, each aspect meticulou
     <br>
     <li><strong>Competitive Landscape:</strong> In this thriving marketplace, multiple companies engage in heated competition, resulting in price wars that benefit the discerning consumer.</li>
     <br>
-    <img src="https://mondrian.mashable.com/2016%252F01%252F14%252F5d%252Fbizchats110.b06e3.jpg%252F1200x630.jpg?signature=0G3T0Gumxe8-wohPHC6nSN2punY=" width="230" height="200" align="right">
+    <img src="https://github.com/ShivanniShinde/Vegetable_Market_-Analysis/assets/143825606/608ee8be-5136-499b-811b-0c742c8042f9" alt="image" width="200" height="150" align='right'>
     <li><strong>Quality Reigns:</strong> Companies shine by offering superior quality and fresher produce, distinguishing themselves in a crowded market.</li>
     <br>
     <li><strong>Customer-Centric Approach:</strong> Quick delivery, loyalty programs, and innovative technology serve as the beacon attracting and retaining customers.</li>
